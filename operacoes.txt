@@ -1,0 +1,2 @@
+soma: recebe dois numeros e retorna a soma dos valores
+subtracao: recebe dois numeros e retorna a diferenca entre eles
