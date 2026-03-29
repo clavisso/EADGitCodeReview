@@ -1,7 +1,2 @@
 soma: recebe dois numeros e retorna a soma dos valores
 subtracao: recebe dois numeros e retorna a diferenca entre eles
-multiplicacao: recebe dois numeros e retorna o produto
-divisao: recebe dois numeros e retorna o quociente
-potencia: recebe base e expoente e retorna o resultado
-raiz_quadrada: recebe um numero e retorna sua raiz quadrada
-modulo: recebe dois numeros e retorna o resto da divisao
