@@ -1,0 +1,3 @@
+A entrada deve ser convertida para numero antes do calculo.
+Numeros decimais devem usar ponto como separador (ex: 3.14).
+Entradas vazias ou com letras devem ser rejeitadas.

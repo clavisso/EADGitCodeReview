@@ -3,3 +3,5 @@ ERRO_002: entrada nao e um numero valido
 ERRO_003: operacao desconhecida ou nao suportada
 ERRO_004: numero fora do intervalo permitido
 ERRO_005: argumento obrigatorio nao informado
+ERRO_006: tipo de dado invalido para a operacao
+ERRO_007: overflow aritmetico detectado
