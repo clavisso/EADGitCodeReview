@@ -4,3 +4,5 @@ v0.3 - adicao de multiplicacao e divisao
 v0.4 - adicao de potencia e raiz quadrada
 v0.5 - correcao de bugs
 v0.6 - adicao de codigos de erro
+v0.7 - adicao de validacoes de entrada
+v1.0 - versao final de entrega

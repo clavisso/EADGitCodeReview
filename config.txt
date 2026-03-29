@@ -1,0 +1,4 @@
+versao_atual=1.0
+ambiente=producao
+precisao_decimal=2
+idioma=pt-BR
