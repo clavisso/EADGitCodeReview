@@ -1,0 +1,3 @@
+Equipe: dev@empresa.com
+Suporte: suporte@empresa.com
+Repositorio: github.com/empresa/calculadora

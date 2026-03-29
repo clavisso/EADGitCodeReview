@@ -1,0 +1,4 @@
+Os numeros de entrada devem ser valores numericos validos.
+A divisao por zero deve retornar uma mensagem de erro.
+O expoente na operacao de potencia deve ser positivo.
+Resultados negativos sao permitidos.

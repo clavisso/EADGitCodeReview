@@ -1,0 +1,4 @@
+v0.1 - criacao inicial do projeto
+v0.2 - adicao das operacoes basicas
+v0.3 - adicao de multiplicacao e divisao
+v0.4 - adicao de potencia e raiz quadrada
