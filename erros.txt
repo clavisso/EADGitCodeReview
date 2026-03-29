@@ -1,0 +1,5 @@
+ERRO_001: divisao por zero nao e permitida
+ERRO_002: entrada nao e um numero valido
+ERRO_003: operacao desconhecida ou nao suportada
+ERRO_004: numero fora do intervalo permitido
+ERRO_005: argumento obrigatorio nao informado

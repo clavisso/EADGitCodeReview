@@ -1,0 +1,4 @@
+Area do circulo:    A = PI * r^2
+Area do retangulo:  A = base * altura
+Area do triangulo:  A = (base * altura) / 2
+Hipotenusa:         c = raiz(a^2 + b^2)

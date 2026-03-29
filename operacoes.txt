@@ -1,2 +1,4 @@
 soma: recebe dois numeros e retorna a soma dos valores
 subtracao: recebe dois numeros e retorna a diferenca entre eles
+multiplicacao: recebe dois numeros e retorna o produto
+divisao: recebe dois numeros e retorna o quociente
